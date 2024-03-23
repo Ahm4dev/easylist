@@ -1,197 +1,196 @@
-||globalsign.com^
-||scdns.io^
-||dimonvideo.ru^
-||akisinn.info^
-||dewrain.site^
-||www.acm.org^
-||change.org^
-||hltv.org^
-||tgju.org^
-||www.ieee.org^
-||www.collegeboard.org^
-||104.86.110.18^
-||www.geeksforgeeks.org^
-||poll.omc.samsungdm.com^
-||www.python.org^
-||www.apache.org^
-||www.code.org^
-
-||2.21.20.145^
-||www.jw.org^
-||ospserver.net^
-||224.0.0.251^
-||www.rfa.org^
-||ssiloc.com^
-||239.255.255.250^
-||dc.dqa.samsung.com^
-||dls.di.atlas.samsung.com^
-||dc.di.atlas.samsung.com^
-||dls-udc.dqa.samsung.com^
-||dir-apis.samsungdm.com^
-||diagmon-policy.samsungdm.com^
-||dmv.org^
-||rsc.org^
-||84.53.175.136^
-||kms.samsungdive.com^
-||smart-sense.org^
-||mydatamanagerapp.com^
-||camscanner.com^
-||intsig.net^
-||54.177.44.214^
-||54.183.90.125^
-||54.193.170.51^
-||colornote.com^
-||cspdf.net^
-||appsflyersdk.com^
-||branch.io^
-||yastatic.net^
-||main.dramalive.online^
-||d26xw8rp6mlgfg.cloudfront.net^
-||favicon.yandex.net^
-||3.123.220.45^
-||3.66.87.188^
-||avatars.mds.yandex.net^
-||privacy.api.intl.miui.com^
-||intools.dev^
-||sdk.pushmessage.samsung.com^
-||gos-gsp.io^
-||102.130.49.189^
-||102.130.49.195^
-||102.222.156.150^
-||102.64.112.164^
-||102.64.112.165^
-||102.64.113.152^
-||108.177.15.192^
-||13.244.55.14^
-||142.251.111.192^
-||160.119.216.197^
-||160.119.216.202^
-||168.167.71.131^
-||supl.google.com^
-||196.10.54.57^
-||196.10.54.58^
-||196.10.55.57^
-||196.192.32.7^
-||196.200.131.160^
-||196.49.100.57^
-||196.49.100.58^
-||196.49.6.106^
-||197.224.66.40^
-||41.175.36.40^
-||41.175.49.55^
-||74.125.193.192^
-||74.125.71.192^
-||88.208.242.113^
-||go-workout.com^
-||ipinfo.io^
-||leap.app^
-||9appsinstall.com^
-||livenettv.io^
-||pseergoa.net^
-||142.251.42.225^
-||vanced.pro^
-||9appsdownloading.com^
-||rayjump.com^
-||d1tru86qrby720.cloudfront.net^
-||8.219.170.39^
-||8.219.172.47^
-||urioy.com^
-||liftoff-creatives.io^
-||ipstatp.com^
-||unity3d.com^
-||fundingchoicesmessages.google.com^
-||pangolin16.isnssdk.com^
-||bjtdboofs.s3.us-west-2.amazonaws.com^
-||rsfile.net^
-||52.59.26.69^
-||appsflyer.com^
-||mintegral.net^
-||de.samsunggeopush.com^
-||news-cdn.site^
-||wshareit.com^
-||shareitgames.com^
-||stabcool.tech^
-||rubuzi.tech^
-||birdgesdk.com^
-||beyla.site^
-||ad-host-backup-europe.s3.eu-central-1.amazonaws.com^
-||reporttk.com^
-||pullcf.com^
-||hellay.net^
-||anythinktech.com^
-||tongdun.net^
-||rqmob.com^
-||splayer.dev^
-||stluserehtem.com^
-||apppmate.com^
-||172.217.130.200^
-||openinstall.io^
-||104.16.223.132^
-||104.16.248.249^
-||104.248.107.159^
-||104.86.110.216^
-||114.114.114.114^
-||116.202.176.26^
-||138.197.166.255^
-||138.197.176.143^
-||139.59.78.91^
-||142.250.185.77^
-||144.202.20.89^
-||146.112.41.2^
-||149.112.121.10^
-||149.28.178.100^
-||156.154.70.2^
-||159.89.117.59^
-||162.14.21.178^
-||165.232.182.145^
-||167.172.17.132^
-||167.172.60.99^
-||169.239.129.73^
-||172.105.168.39^
-||178.128.60.68^
-||192.168.3.99^
-||2.19.126.147^
-||205.171.3.65^
-||206.189.120.38^
-||216.238.108.168^
-||216.238.98.60^
-||217.160.156.119^
-||223.5.5.5^
-||239.255.102.18^
-||35.244.141.111^
-||45.33.9.25^
-||45.79.81.150^
-||51.38.120.92^
-||54.39.154.176^
-||64.6.65.6^
-||74.208.86.88^
-||75.75.77.99^
-||76.76.19.19^
-||91.223.106.51^
-||91.239.100.100^
-||94.140.14.14^
-||phasotsu.com^
-||142.250.204.110^
-||142.251.220.86^
-||142.251.43.1^
-||apiok.net^
-||172.217.163.54^
-||172.217.27.46^
-||47.241.175.152^
-||vungle.io^
-||8.219.180.10^
-||goads2023.com^
-||flat-ads.com^
-||applvn.com^
-||i18n-pglstatp.com^
-||sgsnssdk.com^
-||supersonicads.com^
-||mtgglobals.com^
-||pangle.io^
-||ssacdn.com^
-||ironsrc.mobi^
-||isnssdk.com^
-||applovin.com^
-||mobshark.net^
-||flurry.com^
-||vungle.com^
+0.0.0.0 globalsign.com
+0.0.0.0 scdns.io
+0.0.0.0 dimonvideo.ru
+0.0.0.0 akisinn.info
+0.0.0.0 dewrain.site
+0.0.0.0 www.acm.org
+0.0.0.0 change.org
+0.0.0.0 hltv.org
+0.0.0.0 tgju.org
+0.0.0.0 www.ieee.org
+0.0.0.0 www.collegeboard.org
+0.0.0.0 104.86.110.18
+0.0.0.0 www.geeksforgeeks.org
+0.0.0.0 poll.omc.samsungdm.com
+0.0.0.0 www.python.org
+0.0.0.0 www.apache.org
+0.0.0.0 www.code.org
+0.0.0.0 2.21.20.145
+0.0.0.0 www.jw.org
+0.0.0.0 ospserver.net
+0.0.0.0 224.0.0.251
+0.0.0.0 www.rfa.org
+0.0.0.0 ssiloc.com
+0.0.0.0 239.255.255.250
+0.0.0.0 dc.dqa.samsung.com
+0.0.0.0 dls.di.atlas.samsung.com
+0.0.0.0 dc.di.atlas.samsung.com
+0.0.0.0 dls-udc.dqa.samsung.com
+0.0.0.0 dir-apis.samsungdm.com
+0.0.0.0 diagmon-policy.samsungdm.com
+0.0.0.0 dmv.org
+0.0.0.0 rsc.org
+0.0.0.0 84.53.175.136
+0.0.0.0 kms.samsungdive.com
+0.0.0.0 smart-sense.org
+0.0.0.0 mydatamanagerapp.com
+0.0.0.0 camscanner.com
+0.0.0.0 intsig.net
+0.0.0.0 54.177.44.214
+0.0.0.0 54.183.90.125
+0.0.0.0 54.193.170.51
+0.0.0.0 colornote.com
+0.0.0.0 cspdf.net
+0.0.0.0 appsflyersdk.com
+0.0.0.0 branch.io
+0.0.0.0 yastatic.net
+0.0.0.0 main.dramalive.online
+0.0.0.0 d26xw8rp6mlgfg.cloudfront.net
+0.0.0.0 favicon.yandex.net
+0.0.0.0 3.123.220.45
+0.0.0.0 3.66.87.188
+0.0.0.0 avatars.mds.yandex.net
+0.0.0.0 privacy.api.intl.miui.com
+0.0.0.0 intools.dev
+0.0.0.0 sdk.pushmessage.samsung.com
+0.0.0.0 gos-gsp.io
+0.0.0.0 102.130.49.189
+0.0.0.0 102.130.49.195
+0.0.0.0 102.222.156.150
+0.0.0.0 102.64.112.164
+0.0.0.0 102.64.112.165
+0.0.0.0 102.64.113.152
+0.0.0.0 108.177.15.192
+0.0.0.0 13.244.55.14
+0.0.0.0 142.251.111.192
+0.0.0.0 160.119.216.197
+0.0.0.0 160.119.216.202
+0.0.0.0 168.167.71.131
+0.0.0.0 supl.google.com
+0.0.0.0 196.10.54.57
+0.0.0.0 196.10.54.58
+0.0.0.0 196.10.55.57
+0.0.0.0 196.192.32.7
+0.0.0.0 196.200.131.160
+0.0.0.0 196.49.100.57
+0.0.0.0 196.49.100.58
+0.0.0.0 196.49.6.106
+0.0.0.0 197.224.66.40
+0.0.0.0 41.175.36.40
+0.0.0.0 41.175.49.55
+0.0.0.0 74.125.193.192
+0.0.0.0 74.125.71.192
+0.0.0.0 88.208.242.113
+0.0.0.0 go-workout.com
+0.0.0.0 ipinfo.io
+0.0.0.0 leap.app
+0.0.0.0 9appsinstall.com
+0.0.0.0 livenettv.io
+0.0.0.0 pseergoa.net
+0.0.0.0 142.251.42.225
+0.0.0.0 vanced.pro
+0.0.0.0 9appsdownloading.com
+0.0.0.0 rayjump.com
+0.0.0.0 d1tru86qrby720.cloudfront.net
+0.0.0.0 8.219.170.39
+0.0.0.0 8.219.172.47
+0.0.0.0 urioy.com
+0.0.0.0 liftoff-creatives.io
+0.0.0.0 ipstatp.com
+0.0.0.0 unity3d.com
+0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 pangolin16.isnssdk.com
+0.0.0.0 bjtdboofs.s3.us-west-2.amazonaws.com
+0.0.0.0 rsfile.net
+0.0.0.0 52.59.26.69
+0.0.0.0 appsflyer.com
+0.0.0.0 mintegral.net
+0.0.0.0 de.samsunggeopush.com
+0.0.0.0 news-cdn.site
+0.0.0.0 wshareit.com
+0.0.0.0 shareitgames.com
+0.0.0.0 stabcool.tech
+0.0.0.0 rubuzi.tech
+0.0.0.0 birdgesdk.com
+0.0.0.0 beyla.site
+0.0.0.0 ad-host-backup-europe.s3.eu-central-1.amazonaws.com
+0.0.0.0 reporttk.com
+0.0.0.0 pullcf.com
+0.0.0.0 hellay.net
+0.0.0.0 anythinktech.com
+0.0.0.0 tongdun.net
+0.0.0.0 rqmob.com
+0.0.0.0 splayer.dev
+0.0.0.0 stluserehtem.com
+0.0.0.0 apppmate.com
+0.0.0.0 172.217.130.200
+0.0.0.0 openinstall.io
+0.0.0.0 104.16.223.132
+0.0.0.0 104.16.248.249
+0.0.0.0 104.248.107.159
+0.0.0.0 104.86.110.216
+0.0.0.0 114.114.114.114
+0.0.0.0 116.202.176.26
+0.0.0.0 138.197.166.255
+0.0.0.0 138.197.176.143
+0.0.0.0 139.59.78.91
+0.0.0.0 142.250.185.77
+0.0.0.0 144.202.20.89
+0.0.0.0 146.112.41.2
+0.0.0.0 149.112.121.10
+0.0.0.0 149.28.178.100
+0.0.0.0 156.154.70.2
+0.0.0.0 159.89.117.59
+0.0.0.0 162.14.21.178
+0.0.0.0 165.232.182.145
+0.0.0.0 167.172.17.132
+0.0.0.0 167.172.60.99
+0.0.0.0 169.239.129.73
+0.0.0.0 172.105.168.39
+0.0.0.0 178.128.60.68
+0.0.0.0 192.168.3.99
+0.0.0.0 2.19.126.147
+0.0.0.0 205.171.3.65
+0.0.0.0 206.189.120.38
+0.0.0.0 216.238.108.168
+0.0.0.0 216.238.98.60
+0.0.0.0 217.160.156.119
+0.0.0.0 223.5.5.5
+0.0.0.0 239.255.102.18
+0.0.0.0 35.244.141.111
+0.0.0.0 45.33.9.25
+0.0.0.0 45.79.81.150
+0.0.0.0 51.38.120.92
+0.0.0.0 54.39.154.176
+0.0.0.0 64.6.65.6
+0.0.0.0 74.208.86.88
+0.0.0.0 75.75.77.99
+0.0.0.0 76.76.19.19
+0.0.0.0 91.223.106.51
+0.0.0.0 91.239.100.100
+0.0.0.0 94.140.14.14
+0.0.0.0 phasotsu.com
+0.0.0.0 142.250.204.110
+0.0.0.0 142.251.220.86
+0.0.0.0 142.251.43.1
+0.0.0.0 apiok.net
+0.0.0.0 172.217.163.54
+0.0.0.0 172.217.27.46
+0.0.0.0 47.241.175.152
+0.0.0.0 vungle.io
+0.0.0.0 8.219.180.10
+0.0.0.0 goads2023.com
+0.0.0.0 flat-ads.com
+0.0.0.0 applvn.com
+0.0.0.0 i18n-pglstatp.com
+0.0.0.0 sgsnssdk.com
+0.0.0.0 supersonicads.com
+0.0.0.0 mtgglobals.com
+0.0.0.0 pangle.io
+0.0.0.0 ssacdn.com
+0.0.0.0 ironsrc.mobi
+0.0.0.0 isnssdk.com
+0.0.0.0 applovin.com
+0.0.0.0 mobshark.net
+0.0.0.0 flurry.com
+0.0.0.0 vungle.com
