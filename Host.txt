@@ -1,196 +1,142 @@
-127.0.0.1 globalsign.com
-127.0.0.1 scdns.io
-127.0.0.1 dimonvideo.ru
-127.0.0.1 akisinn.info
-127.0.0.1 dewrain.site
-127.0.0.1 www.acm.org
-127.0.0.1 change.org
-127.0.0.1 hltv.org
-127.0.0.1 tgju.org
-127.0.0.1 www.ieee.org
-127.0.0.1 www.collegeboard.org
-127.0.0.1 104.86.110.18
-127.0.0.1 www.geeksforgeeks.org
-127.0.0.1 poll.omc.samsungdm.com
-127.0.0.1 www.python.org
-127.0.0.1 www.apache.org
-127.0.0.1 www.code.org
-127.0.0.1 2.21.20.145
-127.0.0.1 www.jw.org
-127.0.0.1 ospserver.net
-127.0.0.1 224.0.0.251
-127.0.0.1 www.rfa.org
-127.0.0.1 ssiloc.com
-127.0.0.1 239.255.255.250
-127.0.0.1 dc.dqa.samsung.com
-127.0.0.1 dls.di.atlas.samsung.com
-127.0.0.1 dc.di.atlas.samsung.com
-127.0.0.1 dls-udc.dqa.samsung.com
-127.0.0.1 dir-apis.samsungdm.com
-127.0.0.1 diagmon-policy.samsungdm.com
-127.0.0.1 dmv.org
-127.0.0.1 rsc.org
-127.0.0.1 84.53.175.136
-127.0.0.1 kms.samsungdive.com
-127.0.0.1 smart-sense.org
-127.0.0.1 mydatamanagerapp.com
-127.0.0.1 camscanner.com
-127.0.0.1 intsig.net
-127.0.0.1 54.177.44.214
-127.0.0.1 54.183.90.125
-127.0.0.1 54.193.170.51
-127.0.0.1 colornote.com
-127.0.0.1 cspdf.net
-127.0.0.1 appsflyersdk.com
-127.0.0.1 branch.io
-127.0.0.1 yastatic.net
-127.0.0.1 main.dramalive.online
-127.0.0.1 d26xw8rp6mlgfg.cloudfront.net
-127.0.0.1 favicon.yandex.net
-127.0.0.1 3.123.220.45
-127.0.0.1 3.66.87.188
-127.0.0.1 avatars.mds.yandex.net
-127.0.0.1 privacy.api.intl.miui.com
-127.0.0.1 intools.dev
-127.0.0.1 sdk.pushmessage.samsung.com
-127.0.0.1 gos-gsp.io
-127.0.0.1 102.130.49.189
-127.0.0.1 102.130.49.195
-127.0.0.1 102.222.156.150
-127.0.0.1 102.64.112.164
-127.0.0.1 102.64.112.165
-127.0.0.1 102.64.113.152
-127.0.0.1 108.177.15.192
-127.0.0.1 13.244.55.14
-127.0.0.1 142.251.111.192
-127.0.0.1 160.119.216.197
-127.0.0.1 160.119.216.202
-127.0.0.1 168.167.71.131
-127.0.0.1 supl.google.com
-127.0.0.1 196.10.54.57
-127.0.0.1 196.10.54.58
-127.0.0.1 196.10.55.57
-127.0.0.1 196.192.32.7
-127.0.0.1 196.200.131.160
-127.0.0.1 196.49.100.57
-127.0.0.1 196.49.100.58
-127.0.0.1 196.49.6.106
-127.0.0.1 197.224.66.40
-127.0.0.1 41.175.36.40
-127.0.0.1 41.175.49.55
-127.0.0.1 74.125.193.192
-127.0.0.1 74.125.71.192
-127.0.0.1 88.208.242.113
-127.0.0.1 go-workout.com
-127.0.0.1 ipinfo.io
-127.0.0.1 leap.app
-127.0.0.1 9appsinstall.com
-127.0.0.1 livenettv.io
-127.0.0.1 pseergoa.net
-127.0.0.1 142.251.42.225
-127.0.0.1 vanced.pro
-127.0.0.1 9appsdownloading.com
-127.0.0.1 rayjump.com
-127.0.0.1 d1tru86qrby720.cloudfront.net
-127.0.0.1 8.219.170.39
-127.0.0.1 8.219.172.47
-127.0.0.1 urioy.com
-127.0.0.1 liftoff-creatives.io
-127.0.0.1 ipstatp.com
-127.0.0.1 unity3d.com
-127.0.0.1 fundingchoicesmessages.google.com
-127.0.0.1 pangolin16.isnssdk.com
-127.0.0.1 bjtdboofs.s3.us-west-2.amazonaws.com
-127.0.0.1 rsfile.net
-127.0.0.1 52.59.26.69
-127.0.0.1 appsflyer.com
-127.0.0.1 mintegral.net
-127.0.0.1 de.samsunggeopush.com
-127.0.0.1 news-cdn.site
-127.0.0.1 wshareit.com
-127.0.0.1 shareitgames.com
-127.0.0.1 stabcool.tech
-127.0.0.1 rubuzi.tech
-127.0.0.1 birdgesdk.com
-127.0.0.1 beyla.site
-127.0.0.1 ad-host-backup-europe.s3.eu-central-1.amazonaws.com
-127.0.0.1 reporttk.com
-127.0.0.1 pullcf.com
-127.0.0.1 hellay.net
-127.0.0.1 anythinktech.com
-127.0.0.1 tongdun.net
-127.0.0.1 rqmob.com
-127.0.0.1 splayer.dev
-127.0.0.1 stluserehtem.com
-127.0.0.1 apppmate.com
-127.0.0.1 172.217.130.200
-127.0.0.1 openinstall.io
-127.0.0.1 104.16.223.132
-127.0.0.1 104.16.248.249
-127.0.0.1 104.248.107.159
-127.0.0.1 104.86.110.216
-127.0.0.1 114.114.114.114
-127.0.0.1 116.202.176.26
-127.0.0.1 138.197.166.255
-127.0.0.1 138.197.176.143
-127.0.0.1 139.59.78.91
-127.0.0.1 142.250.185.77
-127.0.0.1 144.202.20.89
-127.0.0.1 146.112.41.2
-127.0.0.1 149.112.121.10
-127.0.0.1 149.28.178.100
-127.0.0.1 156.154.70.2
-127.0.0.1 159.89.117.59
-127.0.0.1 162.14.21.178
-127.0.0.1 165.232.182.145
-127.0.0.1 167.172.17.132
-127.0.0.1 167.172.60.99
-127.0.0.1 169.239.129.73
-127.0.0.1 172.105.168.39
-127.0.0.1 178.128.60.68
-127.0.0.1 192.168.3.99
-127.0.0.1 2.19.126.147
-127.0.0.1 205.171.3.65
-127.0.0.1 206.189.120.38
-127.0.0.1 216.238.108.168
-127.0.0.1 216.238.98.60
-127.0.0.1 217.160.156.119
-127.0.0.1 223.5.5.5
-127.0.0.1 239.255.102.18
-127.0.0.1 35.244.141.111
-127.0.0.1 45.33.9.25
-127.0.0.1 45.79.81.150
-127.0.0.1 51.38.120.92
-127.0.0.1 54.39.154.176
-127.0.0.1 64.6.65.6
-127.0.0.1 74.208.86.88
-127.0.0.1 75.75.77.99
-127.0.0.1 76.76.19.19
-127.0.0.1 91.223.106.51
-127.0.0.1 91.239.100.100
-127.0.0.1 94.140.14.14
-127.0.0.1 phasotsu.com
-127.0.0.1 142.250.204.110
-127.0.0.1 142.251.220.86
-127.0.0.1 142.251.43.1
-127.0.0.1 apiok.net
-127.0.0.1 172.217.163.54
-127.0.0.1 172.217.27.46
-127.0.0.1 47.241.175.152
-127.0.0.1 vungle.io
-127.0.0.1 8.219.180.10
-127.0.0.1 goads2023.com
-127.0.0.1 flat-ads.com
-127.0.0.1 applvn.com
-127.0.0.1 i18n-pglstatp.com
-127.0.0.1 sgsnssdk.com
-127.0.0.1 supersonicads.com
-127.0.0.1 mtgglobals.com
-127.0.0.1 pangle.io
-127.0.0.1 ssacdn.com
-127.0.0.1 ironsrc.mobi
-127.0.0.1 isnssdk.com
-127.0.0.1 applovin.com
-127.0.0.1 mobshark.net
-127.0.0.1 flurry.com
-127.0.0.1 vungle.com
+globalsign.com
+scdns.io
+dimonvideo.ru
+mobilefuse.com
+agkn.com
+appbaqend.com
+appodeal.com
+everestop.io
+apptornado.com
+akisinn.info
+dewrain.site
+camscanner.com
+intsig.net
+branch.io
+colornote.com
+cspdf.net
+appsflyersdk.com
+doubleclick.net
+backendcoreapi.com
+dramalive.online
+cloudfront.net
+yandex.net
+mobileadexchange.net
+yandexadexchange.net
+appmetrica.yandex.net
+outbrainimg.com
+cheqzone.com
+zemanta.com
+semprotech.online
+asd.homes
+filemoon.sx
+cdn112.com
+voe.sx
+techinsider.wiki
+startappservice.com
+akamaized.net
+shooflive.art
+appnext.com
+dwasat.com
+outbrain.com
+geoedge.be
+imgur.com
+3cd.io
+shahid.net
+filelions.site
+vidhidepro.com
+applovin.com
+asd.cam
+oasisfeng.com
+bittorrent.com
+transmissionbt.com
+libtorrent.org
+99git.com
+apklollypop.com
+apkomega.com
+appbundledownload.com
+pvprooms.com
+git99.com
+pvpgang.com
+winudf.com
+77download.com
+btc42.com
+pvpchat.com
+stickwarlegacymod.com
+play53.com
+pvpbardownload.com
+go-workout.com
+ipinfo.io
+leap.app
+9appsinstall.com
+j2inter.com
+mxplay.com
+emergingthreats.net
+bangcdn.net
+phxfeeds.com
+sportnanoapi.com
+flat-ads.com
+vlogerads.com
+rayjump.com
+pseergoa.net
+vanced.pro
+9appsdownloading.com
+urioy.com
+inmobi.com
+dbankcloud.com
+adsmoloco.com
+byteoversea.com
+inmobicdn.net
+dbankcdn.cn
+dbankcdn.com
+flurry.com
+firebaseio.com
+applvn.com
+i18n-pglstatp.com
+sgsnssdk.com
+supersonicads.com
+liftoff-creatives.io
+mtgglobals.com
+unity3d.com
+pangle.io
+ssacdn.com
+ironsrc.mobi
+ipstatp.com
+isnssdk.com
+rsfile.net
+appsflyer.com
+mintegral.net
+samsunggeopush.com
+news-cdn.site
+wshareit.com
+rqmob.com
+shareitgames.com
+stabcool.tech
+rubuzi.tech
+birdgesdk.com
+beyla.site
+reporttk.com
+pullcf.com
+hellay.net
+anythinktech.com
+pullcm.com
+tongdun.net
+dalyfeds.com
+mb-cdn.com
+thejeu.com
+snaptube.app
+qq.com
+mobiuspace.net
+falconnet.app
+dbankcloud.cn
+splayer.dev
+stluserehtem.com
+apppmate.com
+openinstall.io
+aliyuncs.com
+mobshark.net
+vungle.com
+phasotsu.com
+apiok.net
+tickoapt.net
+vungle.io
+goads2023.com
